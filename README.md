@@ -1,4 +1,4 @@
-🏃 Hop Hop
+ִֶָ𓂃 ִֶָ🐇་༘࿐ Hop Hop
 
 Basit bir Endless Runner denemesi – İlk mobil oyun projem
 
@@ -9,11 +9,17 @@ Oyuncu, engellerden kaçıp en yüksek skoru elde etmeye çalışır.
 
 Mobil uyumlu (Android için hazırlandı)
 
-Basit endless runner mekaniği
+Endless runner mekaniği
 
 Sanat tasarımı, animasyonlar ve kodlama tamamen bana aittir
 
-İlk deneme projesi olduğundan taslak niteliğindedir
+Karakter rengini değiştirme özelliği
+
+Havuç/Coin toplama ve mağaza (store) sistemi
+
+Ekstra yetenekler eklenmiştir (ör. power-up’lar)
+
+İlk deneme projesi olduğundan taslak niteliğindedir, ileride daha da geliştirilecektir
 
 📂 Proje Yapısı
 
@@ -29,11 +35,12 @@ Assets/Scenes → Test ve oynanış sahneleri
 
 📸 Görseller
 
+![hophopMenu](https://github.com/user-attachments/assets/d10407f9-0c15-4165-b7b9-76ec7f953ec6)
+
 ![hophopgameplay](https://github.com/user-attachments/assets/73f42abb-31da-4832-bfd6-0b37d1d2aaf7)
 
 ![hophopgameplay2](https://github.com/user-attachments/assets/f07a6d56-2453-42da-a409-90bda56265b1)
 
-![hophopMenu](https://github.com/user-attachments/assets/d10407f9-0c15-4165-b7b9-76ec7f953ec6)
 
 📝 Notlar
 
