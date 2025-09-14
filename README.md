@@ -50,6 +50,9 @@ Proje bir ilk deneme olduğu için eksikler ve basit çözümler içerebilir.
 
 Staj süreci için oyun geliştirme pratiğimi göstermek amacıyla düzenlenmiştir.
 
+Tam proje private repo’da saklanmaktadır. İsteyenlere özel erişim sağlanabilir.
+
+
 👤 Geliştirici
 
 Efe Şimşek
