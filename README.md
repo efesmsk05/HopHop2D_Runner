@@ -33,6 +33,7 @@ Assets/Scenes → Test ve oynanış sahneleri
 
 ![hophopgameplay2](https://github.com/user-attachments/assets/f07a6d56-2453-42da-a409-90bda56265b1)
 
+![hophopMenu](https://github.com/user-attachments/assets/d10407f9-0c15-4165-b7b9-76ec7f953ec6)
 
 📝 Notlar
 
