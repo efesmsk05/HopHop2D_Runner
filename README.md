@@ -27,7 +27,7 @@
 ### 🕹️ Hemen Oyna / İncele
 Projenin oynanabilir sürümüne ve detaylarına Itch.io üzerinden ulaşabilirsiniz:
 
-[![Itch.io]()
+[![Itch.io](https://efesmsk05.itch.io/hop-hop)
 
 
 https://efesmsk05.itch.io/hop-hop
