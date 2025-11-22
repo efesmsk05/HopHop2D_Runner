@@ -39,9 +39,9 @@ Projenin oynanabilir sürümüne ve detaylarına Itch.io üzerinden ulaşabilirs
 > **Oynanış Önizlemesi:**
 
 ![Gameplay GIF](file:///C:/Users/pc/Downloads/Adobe%20Express%20-%20hophop.gif)
-![Uploading Adobe Express - hophop.gif…]()
 
 *(Oyun mekaniklerini gösteren kısa bir kesit)*
+![Adobe Express - hophop](https://github.com/user-attachments/assets/2e35427a-3000-407e-b2da-e69df03fe1b6)
 
 <details>
 <summary>🖼️ Ekran Görüntülerini Görmek İçin Tıklayın</summary>
