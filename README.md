@@ -1,3 +1,4 @@
+<p align="center">
   <img src="https://github.com/user-attachments/assets/d10407f9-0c15-4165-b7b9-76ec7f953ec6" width="200" alt="Hop Hop Logo">
 </p>
 
@@ -26,8 +27,7 @@
 ### 🕹️ Hemen Oyna / İncele
 Projenin oynanabilir sürümüne ve detaylarına Itch.io üzerinden ulaşabilirsiniz:
 
-[![Itch.io](https://img.shields.io/badge/Itch.io-Oyna-fa5c5c?style=for-the-badge&logo=itch.io)](https://efesmsk05.itch.io/hop-hop)
-
+[![Itch.io](https://img.shields.io/badge/Itch.io-Oyna-fa5c5c?style=for-the-badge&logo=itch.io)](BURAYA_ITCHIO_LINKINI_YAPISTIR)
 
 </div>
 
@@ -37,11 +37,8 @@ Projenin oynanabilir sürümüne ve detaylarına Itch.io üzerinden ulaşabilirs
 
 > **Oynanış Önizlemesi:**
 
-![Adobe Express - hophop](https://github.com/user-attachments/assets/40132939-d3d3-44cd-b85b-e15c1faade5e)<p align="center">
-
-
+![Gameplay GIF](BURAYA_GIF_LINKINI_YAPISTIR)
 *(Oyun mekaniklerini gösteren kısa bir kesit)*
-![Adobe Express - hophop](https://github.com/user-attachments/assets/2e35427a-3000-407e-b2da-e69df03fe1b6)
 
 <details>
 <summary>🖼️ Ekran Görüntülerini Görmek İçin Tıklayın</summary>
@@ -96,4 +93,4 @@ Bu repository, projenin incelenebilmesi için **sadeleştirilmiş** halidir. Tam
   Game Developer
 </p>
 
-[GitHub Profilim](https://github.com/efesmsk05) | [LinkedIn](https://www.linkedin.com/in/efe-%C5%9Fim%C5%9Fek-b41619356/) | [E-Posta](mailto:efesimsek0535@gmail.com)
+[GitHub Profilim](https://github.com/KULLANICIADIN) | [LinkedIn](LINKEDIN_LINKIN) | [E-Posta](mailto:MAIL_ADRESIN)
