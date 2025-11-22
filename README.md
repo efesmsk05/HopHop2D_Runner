@@ -27,10 +27,8 @@
 ### 🕹️ Hemen Oyna / İncele
 Projenin oynanabilir sürümüne ve detaylarına Itch.io üzerinden ulaşabilirsiniz:
 
-[![Itch.io](https://efesmsk05.itch.io/hop-hop)
+[![Itch.io](https://img.shields.io/badge/Itch.io-Oyna-fa5c5c?style=for-the-badge&logo=itch.io)](https://efesmsk05.itch.io/hop-hop)
 
-
-https://efesmsk05.itch.io/hop-hop
 </div>
 
 ---
