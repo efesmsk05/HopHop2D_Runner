@@ -27,7 +27,7 @@
 ### 🕹️ Hemen Oyna / İncele
 Projenin oynanabilir sürümüne ve detaylarına Itch.io üzerinden ulaşabilirsiniz:
 
-[![Itch.io](https://img.shields.io/badge/Itch.io-Oyna-fa5c5c?style=for-the-badge&logo=itch.io)](BURAYA_ITCHIO_LINKINI_YAPISTIR)
+[![Itch.io](https://img.shields.io/badge/Itch.io-Oyna-fa5c5c?style=for-the-badge&logo=itch.io)](https://efesmsk05.itch.io/hop-hop)
 
 </div>
 
@@ -37,7 +37,8 @@ Projenin oynanabilir sürümüne ve detaylarına Itch.io üzerinden ulaşabilirs
 
 > **Oynanış Önizlemesi:**
 
-![Gameplay GIF](BURAYA_GIF_LINKINI_YAPISTIR)
+![hophopGameplay](https://github.com/user-attachments/assets/ec0fd6fb-bfa4-41c6-9257-af906b395008)
+
 *(Oyun mekaniklerini gösteren kısa bir kesit)*
 
 <details>
@@ -93,4 +94,4 @@ Bu repository, projenin incelenebilmesi için **sadeleştirilmiş** halidir. Tam
   Game Developer
 </p>
 
-[GitHub Profilim](https://github.com/KULLANICIADIN) | [LinkedIn](LINKEDIN_LINKIN) | [E-Posta](mailto:MAIL_ADRESIN)
+[GitHub Profilim](https://github.com/efesmsk05) | [LinkedIn](https://www.linkedin.com/in/efe-%C5%9Fim%C5%9Fek-b41619356/) | [E-Posta](mailto:efesimsek0535@gmail.com)
