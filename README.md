@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/d10407f9-0c15-4165-b7b9-76ec7f953ec6" width="200" alt="Hop Hop Logo">
+  <img src="https://github.com/user-attachments/assets/d10407f9-0c15-4165-b7b9-76ec7f953ec6" width="500" alt="Hop Hop Logo">
 </p>
 
 <h1 align="center">🐇 Hop Hop 🐇</h1>
