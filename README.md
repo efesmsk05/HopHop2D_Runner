@@ -1,4 +1,3 @@
-![Adobe Express - hophop](https://github.com/user-attachments/assets/40132939-d3d3-44cd-b85b-e15c1faade5e)<p align="center">
   <img src="https://github.com/user-attachments/assets/d10407f9-0c15-4165-b7b9-76ec7f953ec6" width="200" alt="Hop Hop Logo">
 </p>
 
@@ -38,7 +37,8 @@ Projenin oynanabilir sürümüne ve detaylarına Itch.io üzerinden ulaşabilirs
 
 > **Oynanış Önizlemesi:**
 
-![Gameplay GIF](file:///C:/Users/pc/Downloads/Adobe%20Express%20-%20hophop.gif)
+![Adobe Express - hophop](https://github.com/user-attachments/assets/40132939-d3d3-44cd-b85b-e15c1faade5e)<p align="center">
+
 
 *(Oyun mekaniklerini gösteren kısa bir kesit)*
 ![Adobe Express - hophop](https://github.com/user-attachments/assets/2e35427a-3000-407e-b2da-e69df03fe1b6)
