@@ -29,7 +29,6 @@ Projenin oynanabilir sürümüne ve detaylarına Itch.io üzerinden ulaşabilirs
 
 [![Itch.io](https://img.shields.io/badge/Itch.io-Oyna-fa5c5c?style=for-the-badge&logo=itch.io)](https://efesmsk05.itch.io/hop-hop)
 
-https://efesmsk05.itch.io/hop-hop
 
 </div>
 
@@ -39,7 +38,7 @@ https://efesmsk05.itch.io/hop-hop
 
 > **Oynanış Önizlemesi:**
 
-![Gameplay GIF](BURAYA_GIF_LINKINI_YAPISTIR)
+![Gameplay GIF](file:///C:/Users/pc/Downloads/Adobe%20Express%20-%20hophop.gif)
 *(Oyun mekaniklerini gösteren kısa bir kesit)*
 
 <details>
